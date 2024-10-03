@@ -7,3 +7,7 @@ print("Hi again")
 
 def foo(x):
   return x
+
+def valami(x):
+  return x
+
